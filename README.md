@@ -1,2 +1,3 @@
 # open_oppgave
-nettside 
+
+denne oppgaven lagger jeg en nettside om videohosting
