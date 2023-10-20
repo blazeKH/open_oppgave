@@ -18,7 +18,8 @@ nav {
 }
 
 .container {
-    bottom: 0;
+    position: absolute;
+    bottom: 0px;
     max-width: 960px;
     margin: 20px auto;
     padding: 20px;
