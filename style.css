@@ -53,11 +53,9 @@ a {
 }
 
 footer {
-    #footer {
-        position: fixed;
-        bottom: 0;
-        width: 100%;
-        height: 60px;   /* Height of the footer */
-        background: rgb(16, 18, 19);
-     }
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    padding: 10px;
 }
