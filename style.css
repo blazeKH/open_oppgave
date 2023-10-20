@@ -18,7 +18,7 @@ nav {
 }
 
 .container {
-    justify-content: flex-end;
+    bottom: 0;
     max-width: 960px;
     margin: 20px auto;
     padding: 20px;
