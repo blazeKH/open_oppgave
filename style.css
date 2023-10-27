@@ -20,7 +20,7 @@ nav {
 .video {
     text-align: center;
     position: absolute;
-    top: 200px;
+    top: 240px;
     left: 35%;
     transform: translateX(-50%);
     border: 2px solid #000000;
